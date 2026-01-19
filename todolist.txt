@@ -3,4 +3,6 @@ My To-Do-List
 -Git
 -Github
 -Version Control system
--
+-git add
+-git rebase
+
